@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculator</title><meta charset="utf-8">
+    <script type="text/javascript">
+
+        // Función para calcular el cubo del número dado
+        function cube() {
+            var num = document.getElementById("n1");
+            num.value = Math.pow(num.value, 3);
+        }
+    </script>
+</head>
+<body>
+    <h1>Calculadora de Jesús Merino</h1>
+    Number:
+    <input type="text" id="n1">
+    <p>
+        <button onclick="cube()">x<sup>3</sup></button>
+    </p>
+</body>
+</html>
