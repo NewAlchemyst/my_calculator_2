@@ -15,3 +15,6 @@ Implementación del botón para calcular la cuarta potencia de un número \(n^4\
 
 ## x^2 button
 Implementación del botón para calcular el cuadrado del número dado en el campo `input`.
+
+## 1/x button
+Implementación del botón para calcular el inverso del número dado en el campo `input`.
