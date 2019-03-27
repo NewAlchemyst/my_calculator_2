@@ -12,3 +12,6 @@ Para implementar el seno de un número de grados cambiar el argumento de Math.si
 
 ## x^4 button
 Implementación del botón para calcular la cuarta potencia de un número \(n^4\).
+
+## x^2 button
+Implementación del botón para calcular el cuadrado del número dado en el campo `input`.
